@@ -1,0 +1,45 @@
+{
+    "update_time": "2023-04-17 19:05:22 +0000",
+    "people": [
+      {
+        "name": "Sergey Prokopyev",
+        "craft": "ISS"
+      },
+      {
+        "name": "Dmitry Petelin",
+        "craft": "ISS"
+      },
+      {
+        "name": "Frank Rubio",
+        "craft": "ISS"
+      },
+      {
+        "name": "Fei Junlong",
+        "craft": "Shenzhou15"
+      },
+      {
+        "name": "Deng Qingming",
+        "craft": "Shenzhou15"
+      },
+      {
+        "name": "Zhang Lu",
+        "craft": "Shenzhou15"
+      },
+      {
+        "name": "Stephen Bowen",
+        "craft": "ISS"
+      },
+      {
+        "name": "Warren Hoburg",
+        "craft": "ISS"
+      },
+      {
+        "name": "Sultan Alneyadi",
+        "craft": "ISS"
+      },
+      {
+        "name": "Andrey Fedyaev",
+        "craft": "ISS"
+      }
+    ]
+  }
